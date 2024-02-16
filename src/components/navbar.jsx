@@ -96,7 +96,7 @@ const Navbar = () => {
         <Link href="/">
           <Image src="/dribbble.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://www.instagram.com/nick_kirui_/">
           <Image src="/instagram.png" alt="" width={24} height={24} />
         </Link>
         <Link href="/">
@@ -105,7 +105,7 @@ const Navbar = () => {
         <Link href="/">
           <Image src="/pinterest.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://www.linkedin.com/in/nicholas-kipngeno-b2a83b229">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
       </div>
